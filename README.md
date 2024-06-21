@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelichenhao&label=Profile%20views&color=0e75b6&style=flat" alt="thelichenhao" /> </p>
 
-- 🔭 I’m currently working on [Diamond & Tofu Forum](https://github.com/thelichenhao/Diamond-and-Tofu)
+- 🔭 I’m currently working for Tencent.
 
 - 🌱 I’m currently learning **K8S, Deep Learning**
 
